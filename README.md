@@ -1,4 +1,4 @@
-# CGVI Introduction to Python 2022
+# CGVI Introduction to Python 2023
 
 ## Quick Start
 
@@ -69,7 +69,7 @@ To run the code you will need to open a Jupyter server. The quickest way to do t
 
 Google Colab is a service where Google will host the Jupyter server and run the python code for you on their servers, so you can get started straight away without having to install python.
 
-To do this, open [Google Colab](https://colab.research.google.com). Click on File->Open if you need to, then select the Github tab. Enter the name of this repository, `drwalton/cgvi-python-intro` and you can then select the notebooks for this introduction below.
+To do this, open [Google Colab](https://colab.research.google.com). Click on File->Open if you need to, then select the Github tab. Enter the name of this repository, `prakashSidd18/cgvi-python-intro` and you can then select the notebooks for this introduction below.
 
 Alternatively, you can follow the direct links at the top of the page.
 
@@ -127,4 +127,4 @@ For Mac OS users, the CPU-only version is the only one available pre-compiled. I
 
 ## Contact
 
-If you run into issues with these notebooks, or find an error in the code, please let me know. You can file an issue on this github repository (go to the Issues tab at the top of the page, and then click the "New Issue" button) to highlight any specific issue with the code. This will be publically viewable. If you would prefer to contact me directly, please do so at `david.walton.13 at ucl.ac.uk`
+If you run into issues with these notebooks, or find an error in the code, please let me know. You can file an issue on this github repository (go to the Issues tab at the top of the page, and then click the "New Issue" button) to highlight any specific issue with the code. This will be publically viewable. If you would prefer to contact me directly, please do so at `s.prakash at ucl.ac.uk`
